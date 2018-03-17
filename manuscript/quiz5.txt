@@ -14,8 +14,8 @@ D) Impossible to know
 ?1 How many times has the most-viewed cat video of all time been viewed on YouTube?
 
 a) Thousands
-b) Millions
+B) Millions
 c) Billions
-D) Impossible to know
+d) Impossible to know
 
 {/quiz}

@@ -14,7 +14,7 @@
 {words: 10}
 ? Name up to five types of colloquial cat coloring types
 
-! Note to teaching assistant: Answers may include types including "Mitted," "Tuxedo," "Magpie," "Harlequin," "Patched.
+! Note to teaching assistant: Answers may include types including "Mitted," "Tuxedo," "Magpie," "Harlequin," "Patched."
 
 {case-sensitive: true}
 ? What is the name of a cross between a lion and a tiger?

@@ -9,7 +9,7 @@
 
 ! Maru
 
-{random-choice-order: true; points: 5}
+{random-choice-order: true, points: 5}
 ? What is the scientific term for the way cats always land on their feet?
 
 a) "Felix Felis Landus"
