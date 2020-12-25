@@ -291,7 +291,7 @@ In the next section of this course, you will find a list of all the parameters a
 
 # Quiz & Exercise Parameters
 
-## Number of Attempts
+## Number of Attempts [Test]
 
 You can set the number of attempts a student is permitted to make to complete a quiz.
 
@@ -314,6 +314,8 @@ d) About 40 mph
 
 {/quiz}
 ```
+
+[test text]
 
 ## Auto-Submit
 
