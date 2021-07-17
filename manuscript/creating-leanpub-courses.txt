@@ -1,32 +1,26 @@
 # Introduction
 
-In this course, you will learn how to make a Leanpub course with all the course-specific options we've built for you.
+This course shows you how to create a Leanpub course using any of the options we've built for you.
 
-The intention of this course is to show:
+It shows how each element of your course looks to you, and how it appears to a student.
 
-1) How your course looks to you when you are writing it.
+The first part of this course includes explanations examples you can paste into your course and modify to meet your needs. It also covers the following topics:
 
-2) How your course will look to students when they are taking it.
+- Creating multiple-choice questions.
+- Setting the number of attempts a student can make to submit a quiz.
+- Setting alternative answers, such as "Six" or "6".
+- Making questions appear in random order.
+- Using many other features and options we support.
 
-The first part of this course gives includes many examples you can paste into your course and modify to meet your needs, such as:
-
-Creating multiple-choice questions
-Setting the number of attempts a student can make to submit a quiz
-Setting alternative answers (e.g., "Six" or "6")
-Making questions appear in random order
-Many other features and options we support.
-
-In the second part of this course, we provide you with working versions of the examples we show you how to write in the first part.
+The second part of this course provides working versions of the examples from the first part.
 
 ## All The Things
 
-We also want to provide you with the complete source content for this entire course, so you can see how everything works from a course creator's perspective.
+We also provide you with the complete source content for this course, so you can see how everything works from a course creator's perspective.
 
-Here is a link to the folder with all the source content, structured appropriately:
+Here is a link to the folder with all the source content: https://github.com/lenepp/creating-leanpub-courses
 
-[#todo]
-
-In the `manuscript` folder for the course, you will find the text files used to write this course. In the `resources` folder inside the `manuscript` folder, you'll find any resources like images or videos that appear in this course.
+In the `manuscript` folder, you can see the text files used to write this course and a `resources` folder, which contains the images and videos that appear in this course.
 
 ## Writing Courses in Plain Text Using Markua
 
