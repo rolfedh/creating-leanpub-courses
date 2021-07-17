@@ -1,26 +1,20 @@
 # Introduction
 
-This course shows you how to create a Leanpub course using any of the options we've built for you.
+This course shows you how to author a Leanpub course by using Markua, a simple markdown-inspired plain-text format for authoring books and courses.
 
-It shows how each element of your course looks to you, and how it appears to a student.
+It explains how to create different types of content, and shows you how each one appears to a student.
 
-The first part of this course includes explanations examples you can paste into your course and modify to meet your needs. It also covers the following topics:
+The first part of this course gives you examples that you can paste into your course and modify to meet your needs. These include:
 
 - Creating multiple-choice questions.
 - Setting the number of attempts a student can make to submit a quiz.
 - Setting alternative answers, such as "Six" or "6".
 - Making questions appear in random order.
-- Using many other features and options we support.
 
 The second part of this course provides working versions of the examples from the first part.
 
-## All The Things
-
-We also provide you with the complete source content for this course, so you can see how everything works from a course creator's perspective.
-
-Here is a link to the folder with all the source content: https://github.com/lenepp/creating-leanpub-courses
-
-In the `manuscript` folder, you can see the text files used to write this course and a `resources` folder, which contains the images and videos that appear in this course.
+If you're interested to see how this course was designed, you can take a look at its source content, here: https://github.com/lenepp/creating-leanpub-courses
+The `/manuscript` folder contains the text files where we wrote this content. The `/manuscript/resources` folder contains the images and videos that appear in this course.
 
 ## Writing Courses in Plain Text Using Markua
 
@@ -28,7 +22,7 @@ Leanpub courses use Markua, which was designed for authoring books and courses i
 
 If you're familiar with Markdown, which is used to write content for the web in plain text, you'll recognize a lot about how Markua works.
 
-You can read the relevant section of the Markua specification document, specifically about courses, [here](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises). Please note that the specification is a reference, not a manual. It is intended for readers who need specific technical information, such as a person developing an API.
+If you're interested, you can find the section of the Markua specification on documenting courses [here](https://leanpub.com/markua/read#leanpub-auto-quizzes-and-exercises). This specification is intended for technical audiences, such as API developers, not students learning how to author in Markua.
 
 Here is a video with Peter explaining Markua, if you're interested in learning the back story:
 
@@ -41,15 +35,15 @@ This course will be updated over time. If you have any suggestions for improveme
 
 # Course Structure
 
-The basic structure of creating a Leanpub course includes the following:
+A Leanpub course typically includes the following elements.
 
 ##  Course Content
 
-Course content can include text, images, YouTube videos, and internet links. Your course content can be thought of as the "textbook" part of the course, which is separate from asking questions in exercises and quizzes.
+You use course content to present text, images, YouTube videos, and internet links. You can think of this as the "lecture" part of the course, which is separate from asking questions in exercises and quizzes.
 
 ## Exercises
 
-In exercises, students are presented with questions to which they can submit answers online. The answers to exercises may also be provided to students before they have tried answering them; this is our version of the classic "the answers are in the back" convention used in printed textbooks.
+In exercises, you ask students questions that they can answer online. You can give students the option The answers to exercises may also be provided to students before they have tried answering them; this is our version of the classic "the answers are in the back" convention used in printed textbooks.
 
 ## Quizzes
 
